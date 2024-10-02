@@ -1,2 +1,4 @@
 /target
 hello_world.elf
+cpp_src/my_program
+/.vscode
